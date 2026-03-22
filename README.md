@@ -57,13 +57,23 @@ This repository documents my journey through **Jose Portilla's Python for Data S
 ```
 data-science-journey/
 │
-├── 📂 01_numpy/               # Numerical computing with NumPy
-├── 📂 02_pandas/              # Data manipulation with Pandas
-├── 📂 03_visualization/       # Matplotlib · Seaborn · Plotly · Maps
-├── 📂 04_capstone/            # Real-world data capstone projects
-├── 📂 05_machine_learning/    # Scikit-learn — 10 algorithms
-├── 📂 06_nlp/                 # Natural Language Processing
-├── 📂 07_deep_learning/       # Neural Networks with TensorFlow & Keras
+├── 📂 01_numpy/
+├── 📂 02_pandas/
+├── 📂 03_visualization/
+├── 📂 04_capstone/
+├── 📂 05_ml_introduction/
+├── 📂 06_linear_regression/
+├── 📂 07_cross_validation/
+├── 📂 08_logistic_regression/
+├── 📂 09_knn/
+├── 📂 10_decision_trees_rf/
+├── 📂 11_svm/
+├── 📂 12_kmeans_clustering/
+├── 📂 13_pca/
+├── 📂 14_recommender_systems/
+├── 📂 15_nlp/
+├── 📂 16_deep_learning/
+├── 📂 17_big_data/
 └── 📄 README.md
 ```
 
