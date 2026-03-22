@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Data files (large)
+*.csv
+*.xlsx
+*.json
+!sample_*.csv
+
+# OS
+.DS_Store
+Thumbs.db
